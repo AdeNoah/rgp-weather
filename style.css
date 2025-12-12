@@ -107,6 +107,9 @@ body {
   /* display: none; */
 }
 
+
+
+
 /* responsive */
 @media screen and (max-width: 450px) {
   .card {
@@ -152,5 +155,10 @@ body {
   
   .details {
     width: ;
+  }
+
+  .col img {
+    width: 25px;
+    margin-right: 10px;
   }
 }
