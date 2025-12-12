@@ -154,11 +154,21 @@ body {
   }
   
   .details {
-    width: ;
+    width: 100%;
   }
 
   .col img {
     width: 25px;
     margin-right: 10px;
+  }
+
+  .humidity,
+  .wind {
+    font-size: 8px;
+    margin-top: -4px;
+  }
+
+  .col div .details-text {
+    font-size:10px;
   }
 }
